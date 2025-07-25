@@ -1,0 +1,12 @@
+Flask==2.3.2
+instagrapi==1.16.22
+python-dotenv==0.21.0
+APScheduler==3.10.1
+pillow==11.3.0
+requests==2.31.0
+imageio==2.5.0
+imageio-ffmpeg==0.4.2
+numpy==1.17.3
+proglog==0.1.9
+decorator==4.4.0
+
