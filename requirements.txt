@@ -9,4 +9,4 @@ imageio-ffmpeg==0.4.2
 numpy==1.17.3
 proglog==0.1.9
 decorator==4.4.0
-
+cryptography==1.17.1
